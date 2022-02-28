@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alarum: to the last warning peece to London by way of answer: discovering the danger of sectaries suffered: and the necessity of order, and vniformity to bee established. Wherein the Presbiterian way of government, and the Independant liberty, is compared.</title>
+            <author>Smith, George, 1602 or 3-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93344</idno>
+            <idno type="STC">Wing S4033</idno>
+            <idno type="STC">Thomason E339_6</idno>
+            <idno type="STC">ESTC R200848</idno>
+            <idno type="EEBO-CITATION">99861480</idno>
+            <idno type="PROQUEST">99861480</idno>
+            <idno type="VID">159720</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159720)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E339[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alarum: to the last warning peece to London by way of answer: discovering the danger of sectaries suffered: and the necessity of order, and vniformity to bee established. Wherein the Presbiterian way of government, and the Independant liberty, is compared.</title>
+                  <author>Smith, George, 1602 or 3-1658.</author>
+               </titleStmt>
+               <extent>12 [i.e. 24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Chapman.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: George Smith Gent.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Page 24 is misnumbered 12.</note>
+                  <note>A reply to: The last warning to all the inhabitants of London (Wing L512).</note>
+                  <note>Annotation on Thomason copy: "May 30th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Last warning to all the inhabitants of London.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Separatsists --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159720:1" rendition="simple:additions"/>
+            <p>
+               <hi>An Alarum:</hi> To the laſt warning peece to LONDON By way of <hi>ANSWER:</hi> Diſcovering The danger of Sectaries ſuffered: and the neceſſity of Order, and Vniformity to bee Eſtabliſhed.</p>
+            <p>Wherein The Presbiterian way of Government, and the Independant Liberty, is compared.</p>
+            <q>
+               <bibl>Levit. 9. 14.</bibl> 
+               <hi>Vlt. Ye ſhall have one Ordinance, both for the ſtran<g ref="char:EOLhyphen"/>ger, and for him that is borne in the Land.</hi>
+            </q>
+            <q>
+               <bibl>Col. 2. 5.</bibl> 
+               <hi>For though I be abſent in the fleſh; yet am I with you in the Spirit, Joving and beholding your order, and the ſtedfaſt<g ref="char:EOLhyphen"/>neſſe of your faith in Chriſt.</hi>
+            </q>
+            <q>
+               <bibl>Heb. 10. 25.</bibl> 
+               <hi>Not forſaking the aſſembling of our ſelves together, as the manner of ſome is, but exhorting one another, and ſo much the more, as ye ſee the day approaching.</hi>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>L. Chapman.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159720:2"/>
+            <pb n="3" facs="tcp:159720:2"/>
+            <head>
+               <hi>An Alarme</hi> To the laſt warning peece to <hi>LONDON:</hi> By way of anſwer.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Printed Pamphlet that paſſed with<g ref="char:EOLhyphen"/>out Licence or name, <hi>Intituled the laſt warning peece to all the in<g ref="char:EOLhyphen"/>habitants of London;</hi> was ſome few dayes ſince brought to my hand, which I examining found to be full of malevolency, and ſe<g ref="char:EOLhyphen"/>dition, which the Author cun<g ref="char:EOLhyphen"/>ningly obſcureth in himſelfe, by ſubtile ſopheſtry, to ludifie well meaning people, like a Wolfe in ſheeps clothing, He appeares to be no Covenanter, elſe a Cove<g ref="char:EOLhyphen"/>nant breaker; and by Scripture example lyable to confiſcation of goods, or death, 2 <hi>Chron. 15. 13. Ezra 7. 26. Amos</hi> 1. 9. Hee at firſt ſalutes with inſinuating flattery, like the Devill to <hi>Eve, Gen.</hi> 3. Theſe are his words, <hi>Well meaning people (ſuch as you are) are ever moſt lyable to be deceived, becauſe you truſt thoſe that give you good words, &amp;c.</hi> you ſee how Serpent<g ref="char:punc">▪</g> like he comes, telling them they truſt in good words, and are lyable to bee de<g ref="char:EOLhyphen"/>ceived,
+<pb n="4" facs="tcp:159720:3"/> when himſelfe meanes to deceive them, like a canting Fortune teller, that tells you you are neer an ill turne: When he is picking your pocket: and farther to exerciſe his Sophiſtry, and pleaſe his ſeditious humour, hee would perſwade the people that they are poſſeſſed with two unreaſonable humors; The firſt for maintenance of a Kingly government; The ſecond for Eccle<g ref="char:EOLhyphen"/>ſiaſticall Government, he inveieth againſt all Government, to make an open way to ſenſuall and licentious liberty, and ſo goes on with Sophiſticall, and ſeditious expreſſions: full of bitternes and ſcandall, againſt the Presbyterian Government, endeavour<g ref="char:EOLhyphen"/>ing to kindle a fire of contention between the two Kingdomes, and to divide both the Parliament and City: I ſhall give you his owne words in order, with ſome anſwer thereunto, to diſco<g ref="char:EOLhyphen"/>ver his ſeditious intention, and to ſatisfie the weake, by reaſon, and texts of Scripture: I begin with the firſt.</p>
+            <p>
+               <hi>YOu have an unreaſonable humour in you for the maintenance of Kingly Government, and he that will nouriſh this humour in you, though he cannot ſhew you any good act that ever any King did volun<g ref="char:EOLhyphen"/>tarily for good of the people! though your ſelves if you will examine ſtories, or your owne experience, may produce thouſands of oppreſſi<g ref="char:EOLhyphen"/>ons, murders, and other tyranies, though no condition of mankinde ever did ſo many, ſo intolerable miſchiefes, though it cannot be ſaid to what uſe they ſerve, or that there is any uſe of them, except to de<g ref="char:EOLhyphen"/>bauch and vex the people, &amp;c.</hi>
+            </p>
+            <p>This is an Anabaptiſticall tenent, contrary to Scripture, which warranteth the Government of Common-weales by Kings, and the lawfulneſſe of the Kingly Office: I ſay not that Kings are <hi>Jure Divino,</hi> but the Office of a King is lawfull, uſefull, and warrantable by the Ordinance of God: <hi>By me Kings Reigne, and Princes decree justice, Prov. 8. 15. Kings are called nurſing fa<g ref="char:EOLhyphen"/>thers, Eſay</hi> 49. 23. They beare the Image of God as the ſupream Mageſtrate, and are ſtiled by his name: <hi>I have ſaid ye are Gods, Pſalm. 82. 6. John</hi> 10. 34 35. we are commanded to feare God and the King, <hi>Prov.</hi> 24. 21. and to feare God and honour the King, 1 <hi>Pet.</hi> 2. 17. That Kings have done good, and voluntary Acts of good for the people is cleare: Example in <hi>David<g ref="char:punc">▪</g> Aſa, Jehoiadah, Amaziah, Hezekiah, Ioſiah, Iehoſaphat, &amp;c.</hi> alſo in
+<pb n="5" facs="tcp:159720:3"/> thoſe Heathen Kings <hi>Ahaſhuerus,</hi> and <hi>Artaxerxes, Darius, &amp;c.</hi> beſides if we examine other ſtories, we ſhall finde other ex<g ref="char:EOLhyphen"/>amples, and in our owne Chronicles, we ſhall Read that Kings have done voluntary Acts of good for their people; as they have bin moved thereunto by the providence of God.</p>
+            <p>On the other ſide we know it is true, that many Kings have bin oppreſſors, as <hi>Solomon</hi> and <hi>Rehoboham,</hi> of whom one was by God rejected from being King, the other forſaken by his people, many have bin murderers, and Tyrants, as <hi>Manaſſes,</hi> and <hi>Ha<g ref="char:EOLhyphen"/>zaell, Antiachus, Nero, Charles</hi> of <hi>France,</hi> and others of that name, and in <hi>England</hi> we have had ſome ſo bad, that by the juſt Lawes of the Kingdome, they have bin depoſed, example in <hi>Edward</hi> the Second and <hi>Richard</hi> the Second, as our Chronicles tells us.</p>
+            <p>It pleaſeth God oftentimes to puniſh a wicked people by the wickedneſſe of a King, therefore God is ſaid to <hi>give a King in his anger, and take him away in his wrath:</hi> But the uſe of Kings is to be protection and ſafety to the people, and for that cauſe the people firſt made Kings to go in and out before them.</p>
+            <p>
+               <hi>Meerely worldly Covetous wretches, Fraudelent over-reaching verlets, Patentees, brawling projectors, are your only Councellors, and put into Offices of truſt, and lead you whither they pleaſe! cauſe you to hate and abhorre thoſe that would purge this humour out of you, and ſhew you a more juſt and rationall way of Government then that of Kings, &amp;c.</hi>
+            </p>
+            <p>We make not worldly covetuous fraudulent men our coun<g ref="char:EOLhyphen"/>ſellours; not put them into Office oftruſt but men fearing God, men of juſtice, wiſdome, and honour, wee know that ſome that have bin projectors, Patentees and are coveteous over reaching men, that are now ſectaries, are made Counſellors (but not by us) and are put into chiefe places of command (but not by us) we ſee it, but cannot helpe it, the whole Kingdome obſerves the courſe of Sectaries, they are wiſer in their generation then the Children of light, and theſe lead us whither we would not goe, like a ſe<g ref="char:EOLhyphen"/>cond captivity! Simple people are ſeduced by them, good men are hated for goodneſſe, and order ſake, which is repugnant to their Malignant humour. Theſe are thoſe that are <hi>ſelfe-willed, that deſpiſe</hi> government (as the Apoſtle foretold,) <hi>and are not a<g ref="char:EOLhyphen"/>fraid
+<pb n="6" facs="tcp:159720:4"/> to ſpeake evill of dignities,</hi> 2 Pet. 2. 10. theſe <hi>promiſe liberty to others, while themſelves are the ſervants to corruption;</hi> and that is the greateſt bondage<g ref="char:punc">▪</g> the Apoſtle <hi>Iude</hi> deſcribes them to be ſuch as turne the <hi>grace of God into laciviouſneſſe,</hi> Iude 4. <hi>Murmurors, Walkers after their owne luſts ſpeaking ſwelling words &amp;c.</hi> He ſaith, <hi>theſe are they that</hi> ſeperate themſelves, ſenſuall! having not the Spirit! verſe. 19. we know <hi>the fruit of the Spirit is love, Ioy, peace, long-ſuffering, meekeneſſe, &amp;c.</hi> Gal. 15. 22.</p>
+            <p>
+               <hi>Others are troubled with an other unreaſonable humour concer<g ref="char:EOLhyphen"/>ning Eccleſiaſticall government, they are undone ruined torne in pee<g ref="char:EOLhyphen"/>cees with rents and diviſions, if all the people may not be compelled to worſhip God as they doe, or in one uniforme way by the ſtate eſtabli<g ref="char:EOLhyphen"/>ſhed &amp;c.</hi>
+            </p>
+            <p>We know where there is not Order, there is confuſion, and where there is diſagreement in diſcipline, there is want of love, devine precept Commands us to be all of <hi>one mind</hi> &amp; <hi>love as Bre<g ref="char:EOLhyphen"/>thren,</hi> 1. Pet. 3. 8. againe let all things be done in order, and decen<g ref="char:EOLhyphen"/>cy, 1 Cor. 14. 40. The Apoſtle ſharply reproved diſorder in the believing Corinth! 1 Cor. 11. 33. 34. And he left <hi>Titus</hi> at <hi>Creete</hi> to ſet order in the Churches; and to <hi>ordain Elders</hi> [to execute that order] <hi>in every City,</hi> Titus 1. 5. conſider in nature; is there any diſorder or diſunion in the Members of one body? they are ma<g ref="char:EOLhyphen"/>ny members, but all make but one perfect body! 1 Cor. 12. 20. and God hath ſo appointed it, <hi>that there ſhould be no ſchiſme in body,</hi> Verſe 25. much more ſhould the Members of the ſpirituall body be one, that there ſhould bee no ſchiſme in the Church; Chriſt is the head of the Church, every Chriſtian is a Member, the Church the body, the head hath not many bodyes, but the body hath many Members and by many Members, the body is made perfect.</p>
+            <p>God hath appointed order to, and in all things; among An<g ref="char:EOLhyphen"/>gelis, &amp; men, yea to all creatures, by order of things, the univerſe is continued, by order among men, Kingdoms, Cities, and ſocie<g ref="char:EOLhyphen"/>ties are maintained, God hath commanded order in every houſe And hath he left his owne houſe without order? The Church of God is called a houſe; <hi>that thou maiſt know how to behave thy ſelfe in the houſe of God, which is the Church of the living God;</hi> 1 Tim. 3. 15. nor is Chriſt leſſe faithfull then <hi>Moſes who was faith<g ref="char:EOLhyphen"/>full
+<pb n="7" facs="tcp:159720:4"/> in all his houſe as a ſervant;</hi> in appointing order: <hi>But Chriſt is a ſonne over his houſe, whoſe houſe we are, Heb.</hi> 3. 5. Therfore the Apoſtle calls the Members <hi>living ſtones, that build up that ſpiritu<g ref="char:EOLhyphen"/>all houſe:</hi> but there is no building without order: every ſtone muſt be hewed by the workman, it muſt paſſe the hammer to be faſhioned: it hath a faſhion of it ſelfe, as a ſtone, but to make ſuch a building, it muſt be faſhioned to another faſhion according to order, elſe there will be confuſion, but God is not the God of confuſion, but of peace, in all the Churches of the Saints: Elſe how ſhall we be all of one minde, and how ſhall Schiſmes and He<g ref="char:EOLhyphen"/>reſies be prevented? if men be not compelled to worſhip God in one way, where is order? if a liberty be given to every man as his erring conſcience ſhall guide him, what errour, or hereſie, or blaſ<g ref="char:EOLhyphen"/>phemy is there in the world or that hell can envent, that will not bee preached in Conventicles to ſeduce the people? Therefore although none can be compelled to be holy (for holineſſe is only wrought by the Spirit of God) yet all ought to be compelled to lawful and holy uniformity in publik worſhip, for time place, and manner: and to bee puniſhed for neglects, except neceſſity con<g ref="char:EOLhyphen"/>ſtrained, and for this cauſe is the ſword put into the hand of the Magiſtrate, <hi>who is the father of our fleſh:</hi> and is to puniſh all the evill works of the fleſh in us! <hi>Idolaters, hatred, ſtrife, varience, e<g ref="char:EOLhyphen"/>mulation, ſedition, hereſie, &amp;c.</hi> theſe are all works of the fleſh: which if the Magiſtrate doe not puniſh, but tolerate; he ſinneth againſt God, and doth Gods work negligently.</p>
+            <p>
+               <hi>The Word of God aloweth every one to bee fully perſwaded in his own mind, and declareth that to be ſinfull that is done otherwiſe, &amp;c.</hi>
+            </p>
+            <p>This Caveler hath learned ſome of the devills Sophiſtry to miſ apply Scripture: for ſo the devill did to Chriſt, <hi>Matth.</hi> 4. 6. That which the Apoſtle intends one way, this Caveler would in<g ref="char:EOLhyphen"/>terpret an other, to ſerve his own end: The Apoſtle, <hi>Rom.</hi> 14. 5. ſpeaking of the obſervation of <hi>Iewiſh dayes and feaſts, &amp;c.</hi> which ſome weake in knowledge (not knowing their liberty) thought, they were ſtill bound to obſerve, therfore that they might neither do the one nor the other, doubtingly, he exhorts every one to g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t aſſurance, and to be fully perſwaded in his owne mind, what was duty! according to that in <hi>Rom.</hi> 4. 21. not that they muſt (becauſe they are not fully perſwaded) uſe their owne liberty, at large, to
+<pb n="8" facs="tcp:159720:5"/> do as they liſt: for it is ſin to refuſe, as wel as to do, if not of faith: for a man either to doe or refuſe to do a thing doubtingly is ſin, every man ought to look to God in every action and to pleaſe <hi>God</hi> in doing, or not doing: therfore men muſt not live according to there ſenſe, bee of what Religion they will, worſhip God in their owne way, bee a rule to themſelves: but according to God, to his will, and in his way, and to make the word of God, and the lawfull command of the Magiſtrate, his Rule: He that ſeekes to live to his owne will, and allowes ſuch a liberty as to Sectaries, ſhall neither pleaſe God, nor advantage the pub<g ref="char:EOLhyphen"/>like.</p>
+            <p>
+               <hi>Theſe Clergie men that animate you herein are ſuch as complyed with the Tyrannie and ſuffiſtication of Epiſcopall Prelates, and now ayme to eſtabliſh the like Tyranny in the hands of Preſbyterian Pre<g ref="char:EOLhyphen"/>lates, &amp;c.</hi>
+            </p>
+            <p>Marke how the envi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Pamphleter, doth calumniate thoſe holy men, which were chiefe, and ſtanding Pillars in the Church of <hi>England,</hi> in the time of the Churches affliction, and oppreſſi<g ref="char:EOLhyphen"/>on under the tyanny of Epiſcopacie, when thoſe men (whom he and thoſe of ſingular opinions doe n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w aſperſe, becauſe they ſtand for the Presbyterian Government,) ſupported Gods peo<g ref="char:EOLhyphen"/>ple by their prayers, preſents, and preaching, and ſuffered in their perſons, and eſtates: willingly, and cheerefully for the li<g ref="char:EOLhyphen"/>berty of the Goſpell; At which time many others (that now accuſe them) for feare fled from us, and hid themſelves in cor<g ref="char:EOLhyphen"/>ners, or unnaturally left their mother that beare them: and went into other Countries, for their owne ſafety; now the chiefe Champions for Sectaries: and by them cryed up as the only men for holineſſe: Theſe though they ranne from the battle, many of them returned to the ſpoyle, and wear the Lawrell as others; when they went from us they paſt hard cenſures on us, and dee<g ref="char:EOLhyphen"/>med us as the people of <hi>Sodam,</hi> themſelves as ſo many lots taken out from among us, And ſince their returne, they have diſturbed our peace, hindered the bleſſing of Reformation, by unnaturall and unchriſtian diviſions, as if like <hi>Ionah</hi> they were angry, that God hath ſpared us: I ſpeake and write this with griefe of heart and wiſh it were not too true: I am ſure ſome of them have, like <hi>Samaritan</hi> adveriaries, hindred the building of the Temple: and
+<pb n="9" facs="tcp:159720:5"/> with like pretences! though I hope not with the ſame intenti<g ref="char:EOLhyphen"/>ons; but my hope and confidence is that God will bring good out of it: both to us, and them; and by theſe conteſts boult out reall truthes, or put us into ſuch a way (not yet ſpoken of) as ſhall be acceptable to God and content to us, and them, if wee would begge humble hearts, and ſeek verity rather then victory, which yet we doubt not; t'is pride that is the cauſe of our con<g ref="char:EOLhyphen"/>tention.</p>
+            <p>
+               <hi>Nothing tendeth more to the diſolving of that Army that under God hath bin your preſervation, or can ſo miſerably teare you into rents and diviſions, leaving you all a naked diſunited prey, to thoſe that of purpoſe have begotten, and nouriſhed theſe deſtructive honours in you, &amp;c.</hi>
+            </p>
+            <p>You ſee where charity is wanting, Envy abounds and breakes out into ſedition, he is not contened to caſt diviſions in Fami<g ref="char:EOLhyphen"/>lyes and Citties, but into the Army of peace, whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e I dare ſay he hath few friends (for ſectaries ſeldome do any act of publike good) I know there are in the Army Independants as well as Presbyterians [not Sectaries] Godly and gallant men, which to<g ref="char:EOLhyphen"/>gether make an Army like the hoſt of <hi>Iſraell,</hi> when <hi>Jehova</hi> went in and out be ore them, God hath done great things for them, and for us by them But ſectaries like the evill Spies bring falſe reports to cauſe murmuring in the Campe, let thoſe that ſow ſe<g ref="char:EOLhyphen"/>dition reape the fruit of it as God ſhall recompence it unto them according to their humour, &amp;c.</p>
+            <p>
+               <hi>EIther of theſe two unreaſonable humours</hi> [of Kingly authority, or Presbyterian Government] <hi>are enough to undo you, and to perplex, if not fruſtrate all the labour of the Parliament to preſerve you: and is likely to bring a n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w confuſion upon the Common<g ref="char:EOLhyphen"/>wealth, &amp;c.</hi>
+            </p>
+            <p>I told you the Pamphleter was either no Covenanter or a Covenant Breaker, obſerve how hee perſwades the people to practiſe againſt Covenant, that inſtead of a bleſſing hee might procure a curſe upon them: his Councell is like <hi>Baalams</hi> to <hi>Balak,</hi> or like <hi>Iobes</hi> wifes (in his miſery) <hi>curſe God and di<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> he would ex<g ref="char:EOLhyphen"/>punge that clauſe of Covenant for preſerving the honour of the King, &amp;c. And that for Reformation, according to any rule, either
+<pb n="10" facs="tcp:159720:6"/> Gods word or reformed Churches: nothing but liberty, like beaſts, without Law or Government: This is indeed the way to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſtrate all the care and labour of the Parliament to preſerve us, and to bring upon our ſelves, confuſion and ſwifter deſtru<g ref="char:EOLhyphen"/>ction: When the <hi>Saxons</hi> had conquered <hi>England</hi> they divided it, and made it into ſeven Kingdomes, differences of Govern<g ref="char:EOLhyphen"/>ment quickly cauſe contentions, ſo as they deſtroyed one an o<g ref="char:EOLhyphen"/>ther, the ſtrongeſt get all, and yet quickly loſt all, but the ſuffer<g ref="char:EOLhyphen"/>ing of ſeverall religions, or diſcipline in worſhip, will be of no leſſe dangerous conſequence.</p>
+            <p>
+               <hi>By the firſt humour you are prepaired to receive the King in again upon any conditions, notwithſtanding all his bloudſhed and perfidiouſ<g ref="char:EOLhyphen"/>neſſe, whereby you encourage and aſſiſt under hand workings, and pro<g ref="char:EOLhyphen"/>jects againſt the Parliament, and occaſion horrible plots againſt the City, and crafty devices to divide betweene the Parliament and City, and to receive the King whether the Parliament will or no, &amp;c.</hi>
+            </p>
+            <p>Reaſon commands to receive the King as a King, but reaſon and Religion <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orbids to receive him but upon ſafe and good conditions, or upon any other conditions then the Parliament ſhall in their wiſedome thinke fit.</p>
+            <p>Nor could any Agents for the King worke any underhand workings, nor effect any deſigne againſt the Parliament or City to divide them, if not furthered by Sectaries under whoſe pro<g ref="char:EOLhyphen"/>tection the enemyes deſignes are now carryed on! and coloured under that Notion the Jeſuites plot and ſeeke to divide King<g ref="char:EOLhyphen"/>domes, Parliaments, Cities, all one againſt another, it is all the hope the Enemy hath left as Sir <hi>Iacob Aſhley</hi> ingeniouſly con<g ref="char:EOLhyphen"/>feſſed: And were it not for theſe home diviſions the Enemy at home would crutch for mercy, and forraigne Nations ſue to Great Britaine for friendſhip, as the Iſland beloved of God, a people conjoyned in holy covenant eſtabliſhed in Unity. Order and Peace, within it ſelfe, whoſe King is the Lord of Hoſts, more admired and honored by other Kingdomes, then <hi>Solomon</hi> by the Queene of the South, when ſhe heard of his wiſdome, and ſee the order of his ſervants.</p>
+            <p>To this happineſſe there is no greater impediment then the pride of man, by obſtinate contention<g ref="char:punc">▪</g> willing rather to con<g ref="char:EOLhyphen"/>ſume three Kingdomes in ſuch a fire, then deny themſelves or quench one burning Luſt.</p>
+            <pb n="11" facs="tcp:159720:6"/>
+            <p>
+               <hi>The ſecond unreaſonable and unchriſtian humour, provoking you to be importument with the Parliament to establiſh a Preſbyterian, or compulſion Church Government, all things conſidered, threaten a more eminent danger then the former at this time can doe; for if the Commons in Parliament ſhould doe a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome have procured the Com<g ref="char:EOLhyphen"/>mon Councell to Petition, ſee in what a ſad condition you would im<g ref="char:EOLhyphen"/>mediately be in for all the Independants, and Sepratiſts, of all ſorts (then whom the Parliament and you have not found more conſtant and ſtedfast friends) all theſe muſt neceſſarily withdraw their aſſi<g ref="char:EOLhyphen"/>ſtance, for if they cannot be free to worſhip God (every one of them) according to their particular conſcience, all liberty to them is taken away, for what is all other liberty where that is not, alſo the Army (that hath recovered you out of a moſt languiſhing eſtate) thereupon will inſtantly be ſcattered, if not diſſolved, ſo you would be extream<g ref="char:EOLhyphen"/>ly divided and distracted among your ſelves at home, and deſtitute of any aſſured ſtrength abroad: and whoſe worke ſhould be effected ther<g ref="char:EOLhyphen"/>by? even theres whoſe maxim it is to divide and maſter you, &amp;c.</hi>
+            </p>
+            <p>One would thinke the Author of the Pamphlet were a meer Jeſuite, (for many ſuch are incorporated among our <hi>London</hi> Se<g ref="char:EOLhyphen"/>ctaries] he complaines of the Presbyterians importunity to the Parliament, that he might make them odious, though they pe<g ref="char:EOLhyphen"/>tition for nothing but what the Parliament have Voted, and granted, juſt things in caſe of neceſſity may be unſeaſonably aſ<g ref="char:EOLhyphen"/>ked: and yet the fault is pardonable, but audatious bold threats deſerves ſevere cenſure: [for ſo I take the Pamphleters: words] that if the Commons ſhould doe [which they have declared to be there intentions as ſome have Petitioned, it were more emi<g ref="char:EOLhyphen"/>nent danger to the Kingdome then the former troubles, as if he would deter the Parliament from their juſt intentions. He cun<g ref="char:EOLhyphen"/>ningly puts the Independants and Sectaries together as if they were all one; but wee know they are divided in opinions more then <hi>Herod</hi> and <hi>Pilot,</hi> though like <hi>Herod</hi> and <hi>Pilate</hi> they agree againſt the peace of the <hi>Church:</hi> they al would have liberty right or wrong.</p>
+            <p>For my part I cannot in judgment nor charity ranck our de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſenting Brethren called Independants] who hold all fundamen<g ref="char:EOLhyphen"/>talls of truth with us, with Sectaries, who all in ſome things differ from us in fundamentalls, more or leſſe: therefore no
+<pb n="12" facs="tcp:159720:7"/> marvill though we agree not! But that Chriſtian Brethren of the houſhould of faith ſhould diſagree about trifles, as if they were Enemies, is ſtrange, where is love? where is peace? where is charity? or for what doe we contend? not for the faith we both profeſſe it, not for the bread of life, we both enjoy it; But wee contend how it ſhall be carved to us! ſurely God is not in this; except as he is angry againſt our pride, and wantonneſſe, do wee not all ſet our faces towards <hi>Zion,</hi> why then do we fall out a<g ref="char:EOLhyphen"/>bout the way, God is able to bring us together, and the Parlia<g ref="char:EOLhyphen"/>ment have power to enjoyne it, that we may ſerve God with or<g ref="char:EOLhyphen"/>der and comelineſſe in one way, if we would but deny out ſelves and ſeeke God, God would bring it to paſſe.</p>
+            <p>That Sectaries and Heretickes ſhould have a liberty, or tol<g ref="char:EOLhyphen"/>leration to worſhip God according to their wills, and erring conſcience, would be the greateſt diſhonour to God that may bee and neceſſarily would be the ruine of Church and ſtate! if all ſhould have liberty, then why not <hi>Papiſts</hi> (who have aſſaulted us) why not <hi>Turkes</hi> and <hi>Pagons?</hi> have not they conſcience to plead for as well as others? what were this but to ſet up a nur<g ref="char:EOLhyphen"/>ſery, or Accademy for all Hereſies; would not God then ſpew us out of ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> land and remove his Candleſtick from us; God and Beliall cannot dwell together, if ſuch withdraw from us we ſhall be the ſtronger, not the weaker.</p>
+            <p>As for the Army it conſiſts not of ſuch, they are and will be friends to the publike they fight for God, and their Country, to ſettle peace, not to begin Warre, nor to give it over, till they have perfected what they have (by Gods bleſſing) beene proſpe<g ref="char:EOLhyphen"/>rous in; the l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe of Sectaries cannot make us diſtracted at home, nor deſtitute of friends abroad: but contrary, for Sectaries are but the Jeſuites Apes, to bring fuell to the fire of contention, at home and abroad; or the Ieſuites ſtalking horſes by which they enſnare us, who ſeeke to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect their worke thereby; it is their maxime, by dividing us to maſter us; it concernes two King<g ref="char:EOLhyphen"/>domes to be wary and diſcreet, the deſigne is againſt both, there<g ref="char:EOLhyphen"/>fore mee thinkes a Nation that really intends to helpe, ſhould not obſtruct in any caſe at ſuch a time, when the prejudice will re<g ref="char:EOLhyphen"/>turne upon it ſelfe, while united both are ſafe, but devided both are ruind</p>
+            <pb n="13" facs="tcp:159720:7"/>
+            <p>
+               <hi>IF you have a minde to be vaſſallzed be ſtill importunate to ſup<g ref="char:EOLhyphen"/>preſſe all privat meetings, or Conventicles, and compell all ſorts of beleivers to worſhip God, as you and your abbettors ſhall approve; you cannot want the aſsiſtance of them who are, or would be Lords over their Brethren, and when by your means they have prevailed o<g ref="char:EOLhyphen"/>ver thoſe [you and they are pleaſed to call Independants or Sectaries] your ſelves muſt be the next in order to be their ſlaves and Vaſ<g ref="char:EOLhyphen"/>ſalls, &amp;c.</hi>
+            </p>
+            <p>That wee may not be vaſſallized, nor circumvented by falſe Brethren who are crept in to <hi>Spie out our liberty, to bring us into a bondage, by uſeing liberty as an occaſion to the fleſh,</hi> Gal. 5. 13. <hi>and a cloak of malitiouſneſſe,</hi> 1. Pet. 2. 16. we adreſſe our ſelves by Pe<g ref="char:EOLhyphen"/>titions, and humble ſupplycations to the Parliament into whoſe hands wee have committed our ſelves, betruſted them with out Religion, Lawes, Liberty, lives and all! And to petition is the peoples Birth-right: The ſtander by ſome times ſees more then the gamſter; And he that weares the ſhooe beſt knowes where it pincheth, t'is the ſubjects liberty to make knowne his greivan<g ref="char:EOLhyphen"/>ces, and that time is fitteſt when apparent prejudice is inten<g ref="char:EOLhyphen"/>ded: Then to ſupplicate is unſeaſonable.</p>
+            <p>Nor do the Presbiterians petition to ſuppreſſe all privat mee<g ref="char:EOLhyphen"/>tings of the Godly, Godforbid, for it is the joy and rejoycing of Chriſtians to meet ſometimes in privat, to conferre, to read, to pray, to ſing Pſalmes, &amp;c. But thoſe that meet at Conventicles at the time of publike worſhip (ſuch as wholly ſeparate from the great Congregation) to heare erronious Doctrines, and to preach their owne fancies; and groſe hereſieis; where ignorant uncalled, and ungifted men uſurpe authority, and creepe into Widowes houſes under pretence of long prayers devoure them, and ſow ſeeds of ſedition in the Kingdome, Theſe the Presby<g ref="char:EOLhyphen"/>terians doe petition againſt, as diſhonour of God! and obnocti<g ref="char:EOLhyphen"/>ous to the State, who live like Stoicks to their owne will: Iudge all men vile and uncleane but themſelves, theſe ought to be ſup<g ref="char:EOLhyphen"/>preſſed, my prayer ſhall ever be for their converſation, and en<g ref="char:EOLhyphen"/>deavour for their ſuppreſſion, that God will worke the one, and the Parliament command the other.</p>
+            <p>If it were the ſinne of the Church of <hi>Pargamus</hi> to ſuffer them that held the Doctrine of <hi>Balaam,</hi> who cauſed <hi>Balak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to caſt a
+<pb n="14" facs="tcp:159720:8"/> ſtumbling block before <hi>Iſraell,</hi> and thoſe that held the Doctrine of the <hi>Nicholaitans</hi> Reu. 2. 14. 15. Then it is the duty of the Church of <hi>England</hi> to ſuppreſſe them not compell the conſci<g ref="char:EOLhyphen"/>ence of any to worſhip God, as the civill, or Eccleſiaſticall power ſhall approve, but to ſuppreſſe their turbulent practiſes: it is one thing to compell the Conſcience, and an other thing to puniſh a wilfull obſtinate fact: a man may refuſe to doe a thing out of ſcruple and weakneſſe, but he that will do the direct contrary, is obſtinate, and turbulent, and lyable to the ſword of the civill Majeſtrate, this is not to Lord it over their Brethren, for among Brethren there muſt bee diſtruction of perſons for place and command in diſcipline and order; all that are godly will aſ<g ref="char:EOLhyphen"/>ſent thereunto and be aſſiſtant to execute juſt puniſhment upon obſtinate offenders, nor ſhall wee thereby enthrawle our ſelves, but the contrary, for while ſuch ſeducers and wilfull offenders are ſuffered, wee ſhall incur Gods diſpleaſure, which is the way to be made ſlaves, and Vaſſalls to the worſt of our enemies: For remedy hereof we caſt our ſelves on the Parliaments wiſdome by advice with the Learned and godly Aſſembly called together by the Parliament to that purpoſe.</p>
+            <p>
+               <hi>But there is good hopes the Commons of</hi> England <hi>now in Parlia<g ref="char:EOLhyphen"/>ment, who are choſen for the preſervation of all juſt liberties, will in no meaſure countenance ſo unjust and dangerous a deſigne, cer<g ref="char:EOLhyphen"/>tainly they cannot ſo ſoone forgot the vigorous aſſiſtance they have al<g ref="char:EOLhyphen"/>waies had in the greateſt neceſſities from this people, &amp;c.</hi>
+            </p>
+            <p>Obſerve how he winds himſelfe like a <hi>Serpent</hi> by inſinuating ſopheſtry, for thus he argues the Parliament are the preſervers of all juſt liberties, therefore they will maintaine any unjuſt li<g ref="char:EOLhyphen"/>bertie to licentiouſneſſe: but thus is truth, the Parliament are preſervers of the ſubjects juſt liberties, but they are ſuppreſſors of all unjuſt liberties, therefore they will ſurely ſuppreſſe licen<g ref="char:EOLhyphen"/>tious libertines: the pamphleter is ſo audatious, that hee dares call the Presbyterian way of government<g ref="char:punc">▪</g> a dangerous, and un<g ref="char:EOLhyphen"/>juſt deſigne; though the Parliament (as hee knowes) have after ſeverall debates<g ref="char:punc">▪</g> voted it, and ordered it, and ſince declared to the world to be the way reſolved to ſettle: Sectaries make great boaſt of their vigorous aſſiſtance to the Parliament<g ref="char:punc">▪</g> t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at which is but little in ſubſtance hath need of helps by Orations like the
+<pb n="15" facs="tcp:159720:8"/> blowing of a Phariſaicall Trumpet: Thoſe that have out done any ſectary, ſay nothing of their doings, it is ſufficient to them that God ſees and knowes.</p>
+            <p>
+               <hi>The Parliament neither are nor can be be truſted to make lawes, to rule men in the practiſe of Religion, and that he that is moſt vaſ<g ref="char:EOLhyphen"/>ſallized in his judgment, with an opinion of uniformity and of a ne<g ref="char:EOLhyphen"/>ceſſity of ſuppreſſing all private Conventicles, or wayes of worſhip but his owne, if he have any uſe of his Conſcience in his worſhip of God he must acknowledge that if the Lawes of the Land ſhould bind him<g ref="char:punc">▪</g> in the leaſt, to practiſe contrary to his owne underſtanding, he cannot obey them<g ref="char:punc">▪</g> without being guilty of wilfull ſin againſt God: for what<g ref="char:EOLhyphen"/>ſoever is not of faith is ſinfull.</hi>
+            </p>
+            <p>The Parliament is betruſted to make lawes to rule men in the practiſe of Religion, and it is the Office and duty of the ſu<g ref="char:EOLhyphen"/>preame powers ſo to doe the Civill Majeſtrate is to command order in the worſhip of God by a Law, with this limitation, that it be either in ſuch things as are commanded in Scripture, or in things of indifferency not forbidden, tending to decency and or<g ref="char:EOLhyphen"/>der, and this is warranted, 1 <hi>Cor.</hi> 14.40. <hi>Titus</hi> 1. 5. Now it is underſtood that theſe commands or Lawes of the Mageſtrate muſt bee in nothing but for order, not urged as matter of ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>neſſe, nor neceſſary to ſalvation but decency and comelineſſe: as may moſt conduce to the glory of God, peace of the Church, winning of them without, and agreeable to the conſtitutions of the Kingdome, and this is proved, <hi>Romans</hi> 13. 5. and 1 <hi>Pet.</hi> 13. 14. <hi>Submit your ſelves to every Ordinance of man, for the Lords ſake, whether it be to the King as ſupreame or unto the Governours, or unto them that are ſent by God for the puniſhment of evill d<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s and for the praiſe of them that doe well, for ſo is the will of God.</hi>
+            </p>
+            <p>No man endued with right reaſon but will ſay there is ſome neceſſity of a Government: if of a Government then a unifor<g ref="char:EOLhyphen"/>mity; elſe it will be confuſed, therefore there is neceſſity to ſup<g ref="char:EOLhyphen"/>preſſe all Conventicles, and that all men ſhall hold ſound Doc<g ref="char:EOLhyphen"/>trine, obſerve ſuch order, time, place, and publike geſture as the Parliament (by advice of the Aſſembly) ſhall appoint, and no man that hath any uſe of conſcience in any thing, but will acknow<g ref="char:EOLhyphen"/>ledge that he is bound in conſcience to obey the lawes of the,
+<pb n="16" facs="tcp:159720:9"/> Land, in which he lives, in all indifferent things, or he is turbulent and deſerves cenſure, even for matters concerning worſhip: he that hath the uſe of conſcience, will make conſcience of the du<g ref="char:EOLhyphen"/>ties of both Tables as well as of one; there is doubtleſſe a con<g ref="char:EOLhyphen"/>ſcience towards God, and a conſcience towards man, this was the Apoſtles practiſe, and muſt be our Rule. <hi>I exerciſe my ſelfe to have alwayes a conſcience void of offence, towards God and towards men, Acts</hi> 24. 16. but if a man have an erring Iudgement, and ſo an erring Conſcience cauſing doubt let him ſearch the Scriptures not ſtand on his owne wiſdome, but he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re reaſon from o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her with patience, (without prejudicate oppinions,) as deſiring ſatiſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<g ref="char:EOLunhyphen"/>faction in the truth, till he be fully perſwaded: we muſt not ſeek to bring truth to our underſtanding, but bring our underſtan<g ref="char:EOLhyphen"/>ding to the truth, that we may have aſſurance what is duty, and what not, that ſo what we do, or not do may bee of faith; and neither ſin againſt the Lawes of men, nor againſt our owne con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <p>
+               <hi>REgarding more that themſelves be pleaſed by uniformity, then God diſpleaſed by Hypocreſie, &amp;c. and this makes you lyable to be wrought upon by meere state religious perſons, ſuch as only perſo<g ref="char:EOLhyphen"/>nate Religion to bring their owne ends about, whoſe Religion is in<g ref="char:EOLhyphen"/>deed prudently to deſemble, theſe frame Oathes, and Covenants for you in ſuch ambiguous expreſſions like</hi> Delphian <hi>oracles, that they ſhall ſeeme to be bound to do or eſtabliſh any thing they ſhall deſire, &amp;c.</hi>
+            </p>
+            <p>We are pleaſed with Uniformity, as it is pleaſing to God, but diſpleaſed with hypocriſie, becauſe it is hated of God, but be<g ref="char:EOLhyphen"/>cauſe hypocriſie is alwayes cheriſht among Separatiſts, and Se<g ref="char:EOLhyphen"/>ctaries, therefore they ought not to bee tollerated, the Apoſtle commands to marke them that make diviſions and avoyd them, <hi>Romans</hi> 16. 17. and our Saviour Chriſt brands the Phariſie for an hypocrite, that ſtood praying and juſtifying himſelfe, <hi>That hee was not as other men, Luke</hi> 18. 11. uncharitable ſeparation from the Aſſembly of the Church hath of old beene obſerved as a badge of hypocriſie, thus did thoſe hypocrites ſpoken of by the Prophet <hi>Eſay 65. 5. Stand by thy ſelfe, for I am holier then thou:</hi> Hence it is that our Sectaries at this day boaſt of their holineſſe, they need not confeſſe ſinne, they cannot ſinne, they
+<pb n="17" facs="tcp:159720:9"/> have the ſeed of God in them, &amp;c. others boaſt of the over flow<g ref="char:EOLhyphen"/>ing of the Spirit in them, and of new Revelations, <hi>&amp;c.</hi> others exault themſelves in the higheſt garbe of pride, in uncharitable cenſorious Iudging that they d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clare themſelves as <hi>Sodome,</hi> but we know where God is, there is love, where Gods ſpirit is there is meekneſſe humility, and peace.</p>
+            <p>There is <hi>a unitie of the Spirit in the blood of pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, Epheſ.</hi> 3. 4. therefore there ought to be uniformity in ſpirituall worſhip, without conformity there cannot be unity, therefore the A<g ref="char:EOLhyphen"/>poſtle calls ſoundneſſe of Doctrine <hi>a forme of Doctrine Rom.</hi> 6. 17. and <hi>a forme of ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und words</hi> 2. Tim. 1. 13. God is one, Chriſt is one, the Spirit is one: three, and but one; <hi>one Lord, on faith, one baptiſme!</hi> there is but one head Chriſt; but one body the Church the head cannot be divided, nor may the body, this is the apo<g ref="char:EOLhyphen"/>ſtolicall Doctrine, and he that walkes contrary is branded by the Apoſtle <hi>Rom.</hi> 16 It is not ſtate Religion, (as ſectaries would have it) to bind men to holy uniformity: nor to frame othe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and covenants to binde men to endeavor for Reformation of evills whether in practiſe or in Iudgement to bind us to one way of uniformity in worſhip, we have not only Divine precept, but Gods owne promiſe that he will <hi>give us one heart, and one way, for our good, and the good of our Children after us Jer.</hi> 32. 29. he that goeth on in a contrary way is ſeduced, or he is a deſem<g ref="char:EOLhyphen"/>bler theſe are no <hi>Delphian Oracles</hi> but divine truthes, though it pleaſe the Pamphleters Ethnickticall humour to uſe heathe<g ref="char:EOLhyphen"/>niſh alligories.</p>
+            <p>The Pamphleter falls upon <hi>the Scotch papers lately printed, and truths manifeſto, &amp;c.</hi> things publiſhed by private men not by the Nation<g ref="char:punc">▪</g> he accuſeth the Nation as <hi>endeavouring to alienate the affection of the people from the Commons of Parliament, and to engratiate the endeavours of that Nation, &amp;c.</hi> I beleive the Pam<g ref="char:EOLhyphen"/>phleter ſpeakes the ſence of the reſt of his faction, to accuſe awhole Nation by particular mens Acts! to raiſe difference though I will not Iuſtifie the printing thoſe papers, nor any o<g ref="char:EOLhyphen"/>ther thing to the prejudice of the Parliament or any of the Engliſh Nation; but think it better that ſuch things had beene forborne: And am bound to juſtifie all juſt exceptions by the Parliament of <hi>England</hi> againſt them, but the Parliament hath
+<pb n="18" facs="tcp:159720:10"/> never charged the Nation of the Scotts, with evill, as ſeditious Sectaries doe, who foment jealouſies on purpoſe to make diffe<g ref="char:EOLhyphen"/>rences, that they may carry on their own deſigne, of lawleſſe li<g ref="char:EOLhyphen"/>berty, to which our brethren of <hi>Scotland,</hi> and our ſolemne Cove<g ref="char:EOLhyphen"/>nant are oppoſite, and to which we muſt ſtand.</p>
+            <p>As for their Nation we are beholding to them, and they are beholding to us an oath of the Lord is between us, which I hope ſhall be obſerved to all poſterities with brotherly union: in de<g ref="char:EOLhyphen"/>ſpight of Sectaries, and Royaliſts, that ſeeke to diſſolve it: But woe to him or them that wiſh or endeavour it, whether a man or a Nation, for God will ſurely avenge his Covenant of all and every perſon, and it concernes both Nations to conſider duty and Conſcience, without regard to the envious deſignes and plots of wicked men, though ſome cauſe of diſcontent may ariſe to both by their helliſh ſubtilty! yet tis not a cauſe of diviſion where wiſdome and godlineſſe have any ſway.</p>
+            <p>
+               <hi>All there zeale and covenanting with the moſt high God you will find is for no other end, then to bring this eaſily deluded Nation un<g ref="char:EOLhyphen"/>der the ſame bondage, to Preſbyteriall Lords and Taſk-maſters; This is the thing intended when you are provoked againſt Sects, when you are put upon petitions, after petitions! all to keepe you in a forward humour againſt that ſeaſon, &amp;c.</hi>
+            </p>
+            <p>Our Covenanting with the high God hath been a viſible bleſ<g ref="char:EOLhyphen"/>ſing to us, as in the dayes of <hi>Aſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2 Chron.</hi> 15. 13. and it will be an eſtabliſhed mercy to both Kingdomes, except wee procure wrath, by our conniving at ſo many that have re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſed to take it, and by over much Clemency to ſectaries, whom we are bound by it to exterpate: by whom (for ought I know for that neglect) God ſeems to threaten us with farther miſery, and new troubles, Our Covenant no way drawes us into bondage, nor brings us under Task-Maſters, but free us from both, The way of the Presbyteriall government is moſt congruent to holy Scripture, moſt orderly, and uniforme neither Tyrannicall, like Epiſcopall, nor looſe, like that of the Sepratiſts: therefore we are bound to Petition for the one, and againſt the other, which is indeed the only obſticle to Church reformation, and of all reformation, but the Presbyterian way is without prejudice, holy and ſafe.</p>
+            <p>
+               <hi>It will be then time no longer to diſpute the Gariſo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, but to pro<g ref="char:EOLhyphen"/>feſſe
+<pb n="19" facs="tcp:159720:10"/> the holding of them for thoſe who will keep and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their covenant according to the Scotch interpretation which will ſerve our Engliſh Maſters purpoſes, as well as theres.</hi>
+            </p>
+            <p>That there is any diſpute about Gariſons, is the buſineſſe of the higher powers to give the reaſons, not my pen: though (I conceive) ſeditious ſectaries have given ſome offence, condu<g ref="char:EOLhyphen"/>cing to ſuch diſputes: That there will ever be any profeſſing to hold them, I am confident the affermers thereof will be proved lyers: And that they ſhall be kept for any Engliſh Covenanter except the Parliament is ſcandalous, falſe and moſt ſeditious: What I may ſay of F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rts Caſtles, and Gariſons kept by others, I will omit, and it ſhall be my prayer that thoſe that contemn the Covenant, doe not really plot, and intend to act what they ſcan<g ref="char:EOLhyphen"/>dalouſly charge upon others: I will forbeare, and hop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the beſt, though with feare; For I am confident they are not wanting in all deſignes to make themſelves maſters of <hi>England,</hi> who by uncharitable cenſures binde us over as ſlaves to hell and Satan.</p>
+            <p>
+               <hi>You cannot be ignorant of a propheſie foreſaid cunningly to fore<g ref="char:EOLhyphen"/>ſpeak the bondage of this Nation, as firſt it must bee conquered by the</hi> Romans, <hi>then by the</hi> Danes, <hi>and</hi> Saxons <hi>after them the</hi> Normans, <hi>but the laſt muſt be the Scotts, and this propheſie is now more fre<g ref="char:EOLhyphen"/>quent in their mouthes then ever.</hi>
+            </p>
+            <p>Sectaries will ſeeke matter to foment ſtrife, though it be from old Mother <hi>Shiptons</hi> propheſie, any thing ſerves that will beget jealoſies, and raiſe contentions, leave no coale unblowed, are more troubled in conſcience to obey any Ordinance of God that tends to order and peace, then to bely their brother, or ſpeake lyes in propheſie to ſeduce ſilly ſoules, <hi>as if their conſcience were ſeared with a hot iron,</hi> as the Apoſtle ſpeakss, 1 <hi>Tim.</hi> 4. 2.</p>
+            <p>
+               <hi>The Covenant cannot bind you to force conſcience, or to moleſt your brother under pretence of hereſie or ſchiſme, what you conceive is truth may be an error, doe as you would be done unto in all things! you would not bee enforced therefore enforce not obſerve rather the wayes of Chriſt, then the Scotch Preſbyterians, if you have taken the Covenant in a worſe ſence, it calls rather for repentance then p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rti<g ref="char:EOLhyphen"/>nacy therein, &amp;c.</hi>
+            </p>
+            <p>Neither our Covenant nor our wills are to binde or force any mans conſcience, but our covenant and Gods word bindes
+<pb n="20" facs="tcp:159720:11"/> as to endeavour conjunction and uniformity in Church diſci<g ref="char:EOLhyphen"/>pline, according to Gods word and the example of other the beſt reformed Churches, not to the Scotch Presbytery, except as aforeſaid we are alſo bound to exterpate hereſie, Schiſme, pro<g ref="char:EOLhyphen"/>phaneſſe, and whatſoever is contrary to ſound Doctrine, and to diſcover thoſe that make faction or parties among the people, <hi>&amp;c.</hi>
+            </p>
+            <p>Men of weake conſciences and ſuch as have beene ſeduced, we will with all gentleneſſe <hi>admoniſh as brethren, inſtruct with love and meekneſſe, till God ſhall give them repentance to the know<g ref="char:EOLhyphen"/>ledge of the truth</hi> 2 Tim. 2. 25. and be tender to tender conſci<g ref="char:EOLhyphen"/>ences to the uttermoſt: ſo long as they make not parties Sects, Conventicles, nor labour to ſeduce others, and draw them from their obedience to lawfu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l authority, if ſo, law muſt puniſh them according to the degree of their offence<g ref="char:punc">▪</g> and this is not to force conſcience, but to puniſh fact, in obſtinate and turbulent per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Nor will the Presbyterians moleſt any Brother under any pre<g ref="char:EOLhyphen"/>tence, but upon apparent hereſie, and Schiſme, not in one per<g ref="char:EOLhyphen"/>ſon, but as it ſhall appeare by holding parties and factions, nor will the Presbyterians be their owne Judges, but the word of God ſhall judge betweene both, from whence we are able if Sectaries were not wilful, or would compare Scripture with the Scripture to ſhew that many things that Sectaries hold for truthes, or manifeſt Errors: And we ſhall ever hold that rule to doe as we would be done unto, and would perſwade Sectaries to practiſe that leſſon which they do not towards us: for they, would lay intollerable burdens upon us, <hi>but not touch them with one of their fingers.</hi>
+            </p>
+            <p>We ſhall ever obſerve the wayes of Chriſt, and his Apoſtles for our example, not make any one Nation nor perſon our rule, This is the Covenant we have taken it in this ſence and in no other. And in this we muſt per<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſt, and not repent; except that we have not bin ſo vigorous in purſuance thereof as we ought.</p>
+            <p>
+               <hi>MInd the owne good, cleave faſt to the Houſe of Com<g ref="char:EOLhyphen"/>mons, let no ſorcery or Sophestry divide you from them, in<g ref="char:EOLhyphen"/>force
+<pb n="21" facs="tcp:159720:11"/> not, nor be importunate with them for Church Government, leave it to their wiſdomes, to meaſure out of the Clergy what may be for the quiet and profit of the people, &amp;c.</hi>
+            </p>
+            <p>We minde the good of others or our owne, and deſire to bring home erring ſheepe to the ſheepeſold of uniformity, and ſhall ever cleave to the houſe of Commons for redreſſe againſt Se<g ref="char:EOLhyphen"/>ditious Sectaries, nor need that honourable houſe be importu<g ref="char:EOLhyphen"/>ned to do juſtice: ſubmiſſive requeſts in making our greivances knowne is not importunity. We have betruſted them withall and we leave all to their wiſdomes and care, to ſettle Order and Government in the Church and Common-weale, for the peace and benefit of both, and wiſh there were no underhand dea<g ref="char:EOLhyphen"/>ling uſed by thoſe of contrary judgments to diſturbe the peace of both and to traduce us: But God will defend the juſt truth ſeekes no corners, nor pretends any thing ſhee profeſſeth not to deceive any.</p>
+            <p>
+               <hi>THe Lords are not to go before the Commons in determining what concernes the Nation. Their large anſwer to your laſt Petition for Church Government, and ſuppreſsion of Conventicles, inſinuates they would allure you from the Commons, therefore ob<g ref="char:EOLhyphen"/>ſerve them watchfully, and truſt them accordingly &amp;c.</hi>
+            </p>
+            <p>The Lords and Commons make but one Parliament, but wee petition them a part as two diſtinct Houſes. We bleſſe God for the happy concurrence that is betweene them, for publike peace and benefit and thankfully accept their anſwer to our laſt, &amp; laſt petitions. But the pamphleter ſnews the envy of ſectaries, their ſeditious endeavour, to devide betweene the two houſes<g ref="char:punc">▪</g> and between two Kingdoms, care not how or whom they bely<g ref="char:punc">▪</g> to make quarrells: becauſe in times of deſtraction looſeneſſe is a Law, to diſordered and lawleſſe perſons. It is better ſuch men be obſerved then truſted.</p>
+            <p>
+               <hi>THe Clergy you kn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w moſt of them that now ſtickle againſt th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sepratists or independants, do it for their owne ends to retains their Glory in a diſtinction of Clergy. Their domination in judg<g ref="char:EOLhyphen"/>ing of Doctrine, Diſcipline, and Eccleſiaſticall Cenſures, and their profit in pretences of Tithes, all with the ſepratiſts diſ<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> and oppoſe, which is the true cauſe of the quarrell between them, &amp;c.</hi>
+            </p>
+            <p>The Presbyterian Clergie we know are men of conſcience,
+<pb n="22" facs="tcp:159720:12"/> learning, piety, and holy life, by whoſe prayers and ſufferings (as a meanes) we are preſerved to this day, they ſtickle not againſt Sepratiſts, or Independants in diſpleaſure againſt their perſons, but their erronious opinions: Nor ſeeke they glorious diſtin<g ref="char:EOLhyphen"/>ctions, nor domination in judgment, as any end to themſelves, but as it ſhall bee found conſonant to the will of Jeſus Chriſt: They ayme not at their profit in the right of Tythes, but as it hath bin an Eccleſiaſticall right, and due to the Miniſtry, held out in holy Scripture, <hi>Heb.</hi> 7. 5 6, &amp;c. continued ſince the Pri<g ref="char:EOLhyphen"/>mitive times, And as it is eſtabliſhed by the Laws of this king<g ref="char:EOLhyphen"/>dome: <hi>The labourer is worthy of his hire.</hi>
+            </p>
+            <p>That the Sepratiſts or Independants deny any of theſe, I deny; except for ſelfe end, for there more honour and greater profit: For the glory, domination, judgment, cenſuring, <hi>&amp;c.</hi> that the diſſenting party aſſume, is more every way then the Presbyterian hath or ſeeks, Separatiſts maintaine that there is an intire power of all government in every ſingle Congregation.) of which the Clergy is chiefe) there cenſures right or wrong admit no higher appeale, is not this domination equall to a King? hath a Pope or more? Or what can he aske more.</p>
+            <p>And for their profit they ayme at unknowne benefit, not con<g ref="char:EOLhyphen"/>tented with the Tythes, which cuſtomarily have bin payd, and is a certainty, for convenient ſubſiſtance, but expect from every one of there, Congregation, a farre larger gratuity, not ſo little as double the value of tythes, nor hold him worthy a Diſciple that doth not by private offerings exceed it<g ref="char:punc">▪</g> I might inſtance particulars, but I will forbeare, and ſhall deſire all rationall men to obſerve but generalls looke upon the men, their wives, chil<g ref="char:EOLhyphen"/>dren, <hi>&amp;c.</hi> note there garbe, ga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lantry, faſhions, riches, and in<g ref="char:EOLhyphen"/>creaſe of wealth within 3. years paſt and I ſhal need ſay no more, let the juditious Judg: it may be it wil be objected that the Preſ<g ref="char:EOLhyphen"/>byterians are not exempt in all this, and ſeeke pluralities too: my anſwer is modeſt for I cannot call evill good it is poſſible ſome ſuch there are but tis but for the preſent they are ſubject to command and will obey: There loſſe have been much and there labours are great, by which expences ri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e high, we neither allow ſuch things, nor juſtifie them, but deſire a holy reformation in theſe things as in other, according to that of <hi>Tim.</hi> 2. 11. and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Tim.</hi> 3. 2, 3, 4. <hi>&amp;c.</hi>
+            </p>
+            <pb n="23" facs="tcp:159720:12"/>
+            <p>Nor is this the cauſe of quarrell or difference betweene the Presbyterians and them, as they would pretend to delude the people [except as they make it there quarrell for ſelfe ends] The conteſt between us in concerning things of order, wherin Gods glory and the Kingdomes peace is chiefly concerned, by a holy uniformity which is the thing the Presbyterians ſeeke and Se<g ref="char:EOLhyphen"/>pratiſts oppoſe.</p>
+            <p>The former would have all Congregations governed as one Church in one order, according to divine right. The latter would be left at liberty, that every Congregation may have power and government within it ſelfe. The Presbiterian would have only porochiall Congregations, the Sepratiſts would have ſelect Congregations, out of all the pariſhes of a City (or County) if ſome out of all will enter themſelves, ſome to this Church, ſome to that (feweſt to the Congregation or Pariſh in which they live) as their fancy (which they call con<g ref="char:EOLhyphen"/>ſcience) leads them; and not only ſo but they would that every perſon in a family, Sonne, or ſervant, &amp;c. ſhall by the ſame fan<g ref="char:EOLhyphen"/>cy claime liberty to be of what Church they will, if there bee ten in a Family, thoſe ten may be of ten ſeverall Churches, and ſo be made incapable of Society, and family duties, what is this but confuſion? and againſt the rule of Scripture, or ex<g ref="char:EOLhyphen"/>ample of all or any reformed Churches; what is this liberty but libertiniſme? and it muſt needs end in looſeneſſe, and pro<g ref="char:EOLhyphen"/>phaneſſe; beſides it muſt needs be deſtructive to the peace of the common weale.</p>
+            <p>Now that which the Presbyterians would<g ref="char:punc">▪</g> have and for which they ſupplicate, as that which (doubtleſſe) is conſonant <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the holy Scripture, is, that every Miniſter, as a ſhepheard ſhould bee over his porochiall flock: <hi>as they that are appointed over them, of whoſe ſoules they muſt give an account, Hebr.</hi> 13. 17. theſe he is to keep, feed and cheriſh<g ref="char:punc">▪</g> The 7. Churches of <hi>Aſia</hi> had ſeven An<g ref="char:EOLhyphen"/>gells; that is, ſeven Miniſters over them: <hi>Rev.</hi> 1. 20. and each Church had his particular Angell over it; not confuſedly as the Independants would have it but one Angell was over the Church of <hi>Epheſus!</hi> one Angell over the Church <hi>Smerna,</hi> an other o<g ref="char:EOLhyphen"/>ver the Church of <hi>Pergam<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, &amp;c.</hi> and each Church was <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d to one and the ſame order, as appeareth in compa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:159720:13"/> 
+               <hi>Epheſus,</hi> (commended, that they hated the deeds of the <hi>Nicho<g ref="char:EOLhyphen"/>laitans, Rev.</hi> 26.) with that of <hi>Pergamos,</hi> blamed for ſuffering the doctrine of the <hi>Nicholaitans</hi> among them, <hi>Revel.</hi> 2. 15. and that of <hi>Thyatira</hi> reproved for ſuffering thoſe that by falſe doct<g ref="char:EOLhyphen"/>rines ſeduced the people, <hi>verſ.</hi> 20. and the ſin is aggravated, be<g ref="char:EOLhyphen"/>cauſe they were forewarned, and time given to reforme.</p>
+            <p>The Shep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eard, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſture over a parochial flock hath them ever in his eye, may ſee which ſtraggles, and which is weake and is al<g ref="char:EOLhyphen"/>wayes ready to helpe them; but ſelect Congregations that are ſcattered all the week ſome a myle, ſome five myles f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om there ſhepheard, cannot be obſerved, tended nor cheriſhed, but are left to live (as too many ſuch doe at this day) to their luſts, in diſor<g ref="char:EOLhyphen"/>der and ſcandalous manner; under the notion of Religious men; yet voyd of civill honeſty, and juſtice: How diſagreeable ſuch a way is to the rule of Gods word or to the peace or laws of a well conſtituted common-weale; and how agreeable the Preſ<g ref="char:EOLhyphen"/>byteriall way is to both: I leave to all juditious, or rationall men to conſider; and adviſe all men as they love the honour of God, and the good of the Kingdome, to be wary of raſh conjunction with ſuch private Congregations, leaſt they fooliſhly enſnare their Conſciences; and after much heart-breaking returne, by weeping croſſe.</p>
+            <p>This is one maine difference, and cauſe of the quarrell be<g ref="char:EOLhyphen"/>tweene us if it be a quarrell, but I never counted it a quarrell but a diſpute: only I uſe the Pamphleters owne word, who it ſeemes, and the reſt of his ſociety meane to make a quarrell of it: There are divers other particulars wherein we diſagree, which for brevity I muſt omit my ayme in this tract, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing only to give a ſhort anſwer to his ſeditious Pamphlet, to un<g ref="char:EOLhyphen"/>deceive ſeduced people, that meane well, but are enſnared in their conſciences by Sectaries, who as the Prophet ſaith; <hi>ſet Trappes to catch men.</hi>
+            </p>
+            <p>Nor ſhould I have undertaken to ſet my pen to paper to An<g ref="char:EOLhyphen"/>ſwer him but that after three weekes time or more, I ſee it was omitted by all of more abi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lities, my end is Gods glory, and my ayme the publike good, to which I devote my ſelfe, neither ſeeking favour, nor fearing frownes; Conſcience and Cove<g ref="char:EOLhyphen"/>nant command thus much. From</p>
+            <closer>
+               <signed>George Smith <hi>Gent.</hi>
+               </signed>
+               <signed>Imprimat. Io. Downam</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
